@@ -61856,7 +61856,7 @@ $S:33}
 A.yu.prototype={
 an(){return new A.NO(B.j)}}
 A.NO.prototype={
-aI(){var s=new A.G2("https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",B.KM,$.b1())
+aI(){var s=new A.G2("http://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",B.KM,$.b1())
 s.hl(0).bj(new A.a6e(this),t.P)
 this.d=s
 this.b_()},

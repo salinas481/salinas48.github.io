@@ -61856,7 +61856,7 @@ $S:33}
 A.yu.prototype={
 an(){return new A.NO(B.j)}}
 A.NO.prototype={
-aI(){var s=new A.G2("assets/music.mp4",B.KM,$.b1())
+aI(){var s=new A.G2("https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",B.KM,$.b1())
 s.hl(0).bj(new A.a6e(this),t.P)
 this.d=s
 this.b_()},
@@ -62442,7 +62442,7 @@ p=t.U
 o=t.V
 q.CW=new A.bs(new A.ap($.ab,p),o)
 n=A.b0("dataSourceDescription")
-switch(0){case 0:n.b=new A.PY()
+switch(1){case 1:n.b=new A.PY()
 break}s=2
 return A.T(A.mD().a_5(0,n.aq()),$async$hl)
 case 2:m=c
@@ -64873,7 +64873,7 @@ B.dm=new A.D(2164260863)
 B.xN=new A.eV(B.cm,null,null,B.cm,B.dm,B.cm,B.dm,B.cm,B.dm,B.cm,B.dm,0)
 B.bn=new A.qx(B.iH,null,null,null,null,null,null,null)
 B.xO=new A.PX(1,"latency")
-B.LR=new A.PZ(0,"asset")
+B.LR=new A.PZ(1,"network")
 B.xP=new A.qB(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.xQ=new A.qC(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.j1=new A.l5(0,"uninitialized")
